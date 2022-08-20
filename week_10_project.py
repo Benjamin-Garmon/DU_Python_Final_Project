@@ -2,7 +2,7 @@
 Name: Ben Garmon
 Date: 08/19/2022
 Week 10: Stocks Portfolio
-Objective: Create a GUI for stocks, Use Pandas for Analysis
+Objective: Create a GUI for stocks
 """
 
 # Import packages
